@@ -1,0 +1,35 @@
+# Arquivos temporários do Office (Word, Excel)
+~$*
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.py.class
+
+# Arquivos de ambiente virtual
+venv/
+.env/
+.env.local
+
+# Arquivos de IDE/editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de log
+*.log
+*.tmp
+*.temp
+
+# Arquivos específicos do seu projeto (se necessário)
+/anexos.zip
+/assets/*
